@@ -1,6 +1,6 @@
 # Plataforma SABIA
 
-A Plataforma SABIÁ é um projeto desenvolvido com o objetivo de criar um modelo de avaliação diagnóstica de conhecimentos adquiridos fora do ensino formal, utilizando tecnologia como ferramenta de inclusão social e educacional.
+A Plataforma SABIA é um projeto desenvolvido com o objetivo de criar um modelo de avaliação diagnóstica de conhecimentos adquiridos fora do ensino formal, utilizando tecnologia como ferramenta de inclusão social e educacional.
 
 ## 🎯 Objetivo
 
